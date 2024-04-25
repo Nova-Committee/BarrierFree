@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "committee.nova.barrierfree.mixin",
+  "refmap": "mixins.barrierfree.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinEntityEntry",
+    "MixinEntityLiving",
+    "MixinEntityLivingBase",
+    "MixinPathNavigateClimber"
+  ]
+}

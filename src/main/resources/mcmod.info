@@ -1,0 +1,12 @@
+[
+  {
+    "modid": "barrierfree",
+    "name": "BarrierFree",
+    "description": "Allow entities to climb a wall or open a door.",
+    "version": "${version}",
+    "mcversion": "1.12.2",
+    "authorList": [
+      "Tapio"
+    ]
+  }
+]
